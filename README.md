@@ -16,7 +16,6 @@ Fundamental Analysis involves analyzing the company’s future profitability on 
 Technical Analysis, on the other hand, includes reading the charts and using statistical figures to identify the trends in the stock market.
 As you might have guessed, our focus will be on the technical analysis and visualization part. We’ll be using a dataset from Google stock Price test and train.
  
-### Youtube Video of this Project: https://www.youtube.com/watch?v=44u5oU9MQGg
 
 ## Implementation:
 Using Sckiit Learning( Machine Learning model)
@@ -30,35 +29,3 @@ Implementation of sequential, dense, LSTM and dropout.
 Preprocessing the Data
 Predicting the Output
 Result visualization 
- 
-Research Paper:
-Project is totally based on research papers as project predict output using LSTM based deep learning models
-https://arxiv.org/abs/2009.10819
-
-https://www.aclweb.org/anthology/W19-6403.pdf
-
-https://www.sciencedirect.com/science/article/pii/S1877050920304865
-
-
-
-
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">We are Project Developers ❤</h3>
-
-<h3 align="center">You Can use this Beautiful Project for your college Project and get good marks too ❤</h3>
-
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
-
-💌 Feel free to contact me for any kind of help on projects.
-
-### 📫 HOW TO REACH ME 
-
-💬 WhatsApp: **[LINK](https://wa.me/message/CHWN2AHCPMAZK1) : +91 9310631437 (Helping 24*7)**
-
-💬 Gmail: **vatshayan007@gmail.com**
-
-Other Final Year Project: https://github.com/Vatshayan/Final-Year-Project-Cryptographic-Technique-for-Communication-System
-
-### Youtube Video of this Project: https://www.youtube.com/watch?v=44u5oU9MQGg
-
-### CSE Projects: [LINK](https://www.cse-projects.com)
