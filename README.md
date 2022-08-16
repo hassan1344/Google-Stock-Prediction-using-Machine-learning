@@ -10,7 +10,7 @@ Understanding supply and demand is easy.
 So, why do stock prices change? The best answer is that nobody really knows for sure. Some believe that it isn't possible to predict how stocks will change in price while others think that by drawing charts and looking at past price movements, you can determine when to buy and sell. The only thing we do know as a certainty is that stocks are volatile and can change in price extremely rapidly.
 
 
-## Understanding the Problem Statement
+##  Problem Statement
 We’ll dive into the implementation part of this Project soon, but first it’s important to establish what we’re aiming to solve. Broadly, stock market analysis is divided into two parts – Fundamental Analysis and Technical Analysis.
 Fundamental Analysis involves analyzing the company’s future profitability on the basis of its current business environment and financial performance.
 Technical Analysis, on the other hand, includes reading the charts and using statistical figures to identify the trends in the stock market.
